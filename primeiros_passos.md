@@ -13,9 +13,13 @@ Inicialize um repositório Git: Digite o comando git init e pressione Enter. Iss
 Adicione os arquivos ao repositório: Utilize o comando 
 git add <nome_do_arquivo> 
 para adicionar cada arquivo que você deseja incluir no versionamento. Você também pode usar 
+~~~cmd
 git add . 
+~~~
+
 para adicionar todos os arquivos de uma vez.
 Faça um commit das alterações: Digite o comando git commit -m "Mensagem do commit" e pressione Enter. Substitua "Mensagem do commit" por uma descrição breve das alterações que você fez.
+
 Passo 2: Criando um Repositório Remoto no GitHub
 
 Acesse o GitHub e crie um novo repositório: Faça login em sua conta do GitHub e clique no botão "Novo repositório". Dê um nome descritivo ao seu repositório e marque a opção "Inicializar com um README". Clique em "Criar repositório".
