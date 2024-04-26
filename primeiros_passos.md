@@ -23,6 +23,7 @@ para adicionar cada arquivo que você deseja incluir no versionamento. *Você ta
 git add . 
 ~~~
 para adicionar todos os arquivos de uma vez.
+
 4. Faça um commit das alterações: Digite o comando 
 ~~~
 git commit -m "Mensagem do commit" 
